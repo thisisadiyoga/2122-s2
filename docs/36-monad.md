@@ -1,5 +1,7 @@
 # Unit 36: Monad
 
+![wtp](figures/monad/monad.000.jpg)
+
 ## Learning Objectives
 
 After this lecture, students should:
